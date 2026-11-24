@@ -1,0 +1,41 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 60%;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px gray;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: deeppink;
+}
+
+h3 {
+    color: purple;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
